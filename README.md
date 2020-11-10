@@ -1,6 +1,6 @@
 # react-todo-list
-try at https://codepen.io
+copy and paste the code at https://codepen.io
 
-Set JavaScript Preprocessor - Babel
+Set JavaScript Preprocessor to "Babel"
 
-Add External Scripts - react and react-dom
+Add External Scripts. Choose "react" and "react-dom"
